@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: ea8865a82c05e7f46a0e290abd72146d
+timeCreated: 1444009045
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: Box0ewfef
+    100004: Box72
+    100006: Circle_002
+    100008: Circle_003_Circle_020
+    100010: Circle_003_Circle_020_MeshPart0
+    100012: Circle_003_Circle_020_MeshPart1
+    100014: Circle_009_Circle_013
+    100016: Cube_000_Cube_000
+    100018: Cube_000_Cube_000_MeshPart0
+    100020: Cube_000_Cube_000_MeshPart1
+    100022: Cylinder303
+    100024: Cylinder304
+    100026: Cylinder305
+    100028: Cylinder80
+    100030: //RootNode
+    100032: Tank_Base
+    100034: Tank_Base_001
+    100036: Tank_Base_MeshPart0
+    100038: Tank_Base_MeshPart1
+    100040: Tube02_001
+    100042: Up1
+    100044: Up2
+    100046: Up3
+    100048: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    400000: BezierCurve
+    400002: Box0ewfef
+    400004: Box72
+    400006: Circle_002
+    400008: Circle_003_Circle_020
+    400010: Circle_003_Circle_020_MeshPart0
+    400012: Circle_003_Circle_020_MeshPart1
+    400014: Circle_009_Circle_013
+    400016: Cube_000_Cube_000
+    400018: Cube_000_Cube_000_MeshPart0
+    400020: Cube_000_Cube_000_MeshPart1
+    400022: Cylinder303
+    400024: Cylinder304
+    400026: Cylinder305
+    400028: Cylinder80
+    400030: //RootNode
+    400032: Tank_Base
+    400034: Tank_Base_001
+    400036: Tank_Base_MeshPart0
+    400038: Tank_Base_MeshPart1
+    400040: Tube02_001
+    400042: Up1
+    400044: Up2
+    400046: Up3
+    400048: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    2300000: BezierCurve
+    2300002: Box0ewfef
+    2300004: Box72
+    2300006: Circle_002
+    2300008: Circle_003_Circle_020_MeshPart0
+    2300010: Circle_003_Circle_020_MeshPart1
+    2300012: Circle_009_Circle_013
+    2300014: Cube_000_Cube_000_MeshPart0
+    2300016: Cube_000_Cube_000_MeshPart1
+    2300018: Cylinder303
+    2300020: Cylinder304
+    2300022: Cylinder305
+    2300024: Cylinder80
+    2300026: Tank_Base_001
+    2300028: Tank_Base_MeshPart0
+    2300030: Tank_Base_MeshPart1
+    2300032: Tube02_001
+    2300034: Up1
+    2300036: Up2
+    2300038: Up3
+    2300040: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    3300000: BezierCurve
+    3300002: Box0ewfef
+    3300004: Box72
+    3300006: Circle_002
+    3300008: Circle_003_Circle_020_MeshPart0
+    3300010: Circle_003_Circle_020_MeshPart1
+    3300012: Circle_009_Circle_013
+    3300014: Cube_000_Cube_000_MeshPart0
+    3300016: Cube_000_Cube_000_MeshPart1
+    3300018: Cylinder303
+    3300020: Cylinder304
+    3300022: Cylinder305
+    3300024: Cylinder80
+    3300026: Tank_Base_001
+    3300028: Tank_Base_MeshPart0
+    3300030: Tank_Base_MeshPart1
+    3300032: Tube02_001
+    3300034: Up1
+    3300036: Up2
+    3300038: Up3
+    3300040: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    4300000: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    4300002: Tank_Base_001
+    4300004: Up3
+    4300006: Tank_Base_MeshPart0
+    4300008: Tank_Base_MeshPart1
+    4300010: Circle_003_Circle_020_MeshPart0
+    4300012: Circle_003_Circle_020_MeshPart1
+    4300014: Circle_009_Circle_013
+    4300016: Circle_002
+    4300018: BezierCurve
+    4300020: Cube_000_Cube_000_MeshPart0
+    4300022: Cube_000_Cube_000_MeshPart1
+    4300024: Box0ewfef
+    4300026: Box72
+    4300028: Cylinder80
+    4300030: Cylinder303
+    4300032: Cylinder304
+    4300034: Cylinder305
+    4300036: Up1
+    4300038: Up2
+    4300040: Tube02_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
